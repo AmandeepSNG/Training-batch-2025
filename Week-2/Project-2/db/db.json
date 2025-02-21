@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Leanne",
+      "last_name": "Graham",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "house_no": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "role": "CUSTOMER",
+      "phone": "6234657465",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    }
+  ],
+  "list": [
+    {}
+  ]
+}
