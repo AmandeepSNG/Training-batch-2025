@@ -17,7 +17,30 @@
       "company": {
         "name": "Romaguera-Crona",
         "catchPhrase": "Multi-layered client-server neural-net",
-        "bs": "harness real-time e-markets"
+        "bs": "harness real-time e-markets",
+        "url": "https://talentelgia.com"
+      }
+    },
+    {
+      "id": 2,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com",
+      "address": {
+        "street": "Kulas Light",
+        "house_no": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "role": "CUSTOMER",
+      "phone": "6234657465",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets",
+        "url": "https://talentelgia.com"
+
       }
     }
   ],
