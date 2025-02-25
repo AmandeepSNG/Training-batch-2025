@@ -19,7 +19,9 @@
         "catchPhrase": "Multi-layered client-server neural-net",
         "bs": "harness real-time e-markets",
         "url": "https://talentelgia.com"
-      }
+      },
+      "password": "examplePassword",
+      "query": "http://localhost:3000/users?email='<usersEmailhere>'&password='<userPasswordHere>'"
     },
     {
       "id": 2,
