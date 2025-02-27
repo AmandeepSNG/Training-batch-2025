@@ -50,9 +50,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 15872.561825875353,
-			"y": -3698.60422113595,
-			"lastActivityTimestamp": 1740632031587,
+			"x": 16574.564485192244,
+			"y": -3739.3342448624726,
+			"lastActivityTimestamp": 1740632795183,
 			"meta": {}
 		},
 		{
@@ -65,7 +65,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -76,7 +76,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 978.90673828125,
-				"h": 622.9102172851562
+				"h": 393.8399963378906
 			},
 			"insets": [
 				false,
@@ -104,12 +104,12 @@
 			"typeName": "instance"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:4LTvri6jplsv2267Key0e",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
 				"shape:4LTvri6jplsv2267Key0e"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:4LTvri6jplsv2267Key0e",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -120,7 +120,7 @@
 		},
 		{
 			"x": -12503.45307122366,
-			"y": 6836.228318310888,
+			"y": 4722.672403840391,
 			"z": 0.13310000000000002,
 			"meta": {},
 			"id": "camera:page:page",
@@ -747,7 +747,7 @@
 				"color": "black",
 				"size": "xl",
 				"w": 3199.4907558168975,
-				"text": "1. DOM DEALER\n2. VALIDATION CLASS\n3. STYLE MANIPULATOR",
+				"text": "1. DOM DEALER\n2. VALIDATION CLASS\n3. STYLE MANIPULATOR\n4. API CALLS",
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
