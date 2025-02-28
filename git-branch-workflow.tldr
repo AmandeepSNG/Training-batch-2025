@@ -22449,84 +22449,6 @@
 			"typeName": "shape"
 		},
 		{
-			"id": "pointer:pointer",
-			"typeName": "pointer",
-			"x": 370.7963927014324,
-			"y": 6226.717084536824,
-			"lastActivityTimestamp": 1740037384918,
-			"meta": {}
-		},
-		{
-			"followingUserId": null,
-			"opacityForNextShape": 1,
-			"stylesForNextShape": {},
-			"brush": null,
-			"scribbles": [],
-			"cursor": {
-				"type": "grabbing",
-				"rotation": 0
-			},
-			"isFocusMode": false,
-			"exportBackground": true,
-			"isDebugMode": false,
-			"isToolLocked": false,
-			"screenBounds": {
-				"x": 0,
-				"y": 0,
-				"w": 1406,
-				"h": 825
-			},
-			"insets": [
-				false,
-				false,
-				true,
-				false
-			],
-			"zoomBrush": null,
-			"isGridMode": false,
-			"isPenMode": false,
-			"chatMessage": "",
-			"isChatting": false,
-			"highlightedUserIds": [],
-			"isFocused": true,
-			"devicePixelRatio": 1,
-			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
-			"openMenus": [],
-			"isChangingStyle": false,
-			"isReadonly": false,
-			"meta": {},
-			"duplicateProps": null,
-			"id": "instance:instance",
-			"currentPageId": "page:page",
-			"typeName": "instance"
-		},
-		{
-			"editingShapeId": null,
-			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:SGvO8wr3W7NYZCUNBRgvD"
-			],
-			"hoveredShapeId": "shape:SGvO8wr3W7NYZCUNBRgvD",
-			"erasingShapeIds": [],
-			"hintingShapeIds": [
-				"shape:2_LP4-HKDi8GxdqldgbnE"
-			],
-			"focusedGroupId": null,
-			"meta": {},
-			"id": "instance_page_state:page:page",
-			"pageId": "page:page",
-			"typeName": "instance_page_state"
-		},
-		{
-			"x": 303.0557419023179,
-			"y": -5791.036825094744,
-			"z": 1.0328675450576015,
-			"meta": {},
-			"id": "camera:page:page",
-			"typeName": "camera"
-		},
-		{
 			"x": 523.9740306830906,
 			"y": 1871.9153046607685,
 			"rotation": 0,
@@ -37008,7 +36930,7 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "",
+				"text": "week 3",
 				"align": "middle",
 				"verticalAlign": "middle",
 				"growY": 0,
@@ -37038,10 +36960,10 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "day 1 ( storage and json)",
+				"text": "day 1 project review\n1. loading screen\n2. code optimization",
 				"align": "middle",
 				"verticalAlign": "middle",
-				"growY": 2.075286865234375,
+				"growY": 31.788375854492188,
 				"url": "",
 				"scale": 1
 			},
@@ -37068,10 +36990,10 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "day 2 (Project overview)",
+				"text": "day 2 login feature\n1. code optimization\n2. loading screen + login functionality",
 				"align": "middle",
 				"verticalAlign": "middle",
-				"growY": 2.075286865234375,
+				"growY": 61.484405517578125,
 				"url": "",
 				"scale": 1
 			},
@@ -37080,8 +37002,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 681.4666362750511,
-			"y": 3755.5091054835593,
+			"x": 680.4965505501882,
+			"y": 3800.4965436787725,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -37098,10 +37020,10 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "day 3 (\n1. Api integration\n2. SDLC/STLC\n3. client server modal)",
+				"text": "",
 				"align": "middle",
 				"verticalAlign": "middle",
-				"growY": 91.13778686523438,
+				"growY": 0,
 				"url": "",
 				"scale": 1
 			},
@@ -37468,8 +37390,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 944.6736352148005,
-			"y": 3541.7789110588774,
+			"x": 946.6138066645258,
+			"y": 3557.482118480998,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -37484,12 +37406,12 @@
 				"labelColor": "black",
 				"bend": 0,
 				"start": {
-					"x": 0,
-					"y": 0
+					"x": -130.65957056589036,
+					"y": 18.457682196828955
 				},
 				"end": {
-					"x": 207.44169847949365,
-					"y": 8.307382047774922
+					"x": 487.58249633014725,
+					"y": 3.5205375924479085
 				},
 				"arrowheadStart": "none",
 				"arrowheadEnd": "arrow",
@@ -37499,7 +37421,7 @@
 				"scale": 1
 			},
 			"parentId": "page:page",
-			"index": "b0s4Vt",
+			"index": "b13n0K",
 			"typeName": "shape"
 		},
 		{
@@ -37828,8 +37750,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 435.05297555873096,
-			"y": 3318.003170878334,
+			"x": 430.202546934417,
+			"y": 3302.663811901952,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -49367,32 +49289,15 @@
 			"id": "binding:XcD5m8My0kVd3vIu1wjax",
 			"type": "arrow",
 			"fromId": "shape:Jt72_p6yZnD9PRR8VRmC1",
-			"toId": "shape:sRl9iVVKu4hxzaDVBFnMz",
-			"props": {
-				"isPrecise": false,
-				"isExact": false,
-				"normalizedAnchor": {
-					"x": 0.9992216065634311,
-					"y": 0.47129336501099306
-				},
-				"terminal": "start"
-			},
-			"typeName": "binding"
-		},
-		{
-			"meta": {},
-			"id": "binding:J7F9vOQ1wwnaSR7Nxc6Em",
-			"type": "arrow",
-			"fromId": "shape:Jt72_p6yZnD9PRR8VRmC1",
-			"toId": "shape:l2LRYjLcA6OTwCYd_KA_v",
+			"toId": "shape:LC8CXPyh0Nq03UEIvxTtA",
 			"props": {
 				"isPrecise": true,
 				"isExact": false,
 				"normalizedAnchor": {
-					"x": 0.37347463792137775,
-					"y": 0.5096395593162037
+					"x": 0.41063301511847206,
+					"y": 0.20840232581252063
 				},
-				"terminal": "end"
+				"terminal": "start"
 			},
 			"typeName": "binding"
 		},
@@ -69714,6 +69619,101 @@
 				"normalizedAnchor": {
 					"x": 0.5,
 					"y": 0.5
+				},
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 933.2151824738997,
+			"y": 3550.7921272088415,
+			"lastActivityTimestamp": 1740459725559,
+			"meta": {}
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "grabbing",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1238.1177978515625,
+				"h": 622.9102172851562
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 2.9859840869903564,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:Jt72_p6yZnD9PRR8VRmC1"
+			],
+			"hoveredShapeId": "shape:sRl9iVVKu4hxzaDVBFnMz",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [
+				"shape:LC8CXPyh0Nq03UEIvxTtA"
+			],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 470.4907287356556,
+			"y": -2519.596924382766,
+			"z": 0.3452271214393102,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"meta": {},
+			"id": "binding:NBrCohk5YEkI11fSdLRIm",
+			"type": "arrow",
+			"fromId": "shape:Jt72_p6yZnD9PRR8VRmC1",
+			"toId": "shape:LC8CXPyh0Nq03UEIvxTtA",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.71676127034159,
+					"y": 0.2104341528388542
 				},
 				"terminal": "end"
 			},
