@@ -49405,7 +49405,7 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "",
+				"text": "week 4",
 				"align": "middle",
 				"verticalAlign": "middle",
 				"growY": 0,
@@ -49435,10 +49435,10 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "day 1 ( storage and json)",
+				"text": "complete old work",
 				"align": "middle",
 				"verticalAlign": "middle",
-				"growY": 2.075286865234375,
+				"growY": 0,
 				"url": "",
 				"scale": 1
 			},
@@ -49465,10 +49465,10 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "day 2 (Project overview)",
+				"text": "complete old work",
 				"align": "middle",
 				"verticalAlign": "middle",
-				"growY": 2.075286865234375,
+				"growY": 0,
 				"url": "",
 				"scale": 1
 			},
@@ -49495,10 +49495,10 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "day 3 (\n1. Api integration\n2. SDLC/STLC\n3. client server modal)",
+				"text": "How to write reusable code using oops concepts",
 				"align": "middle",
 				"verticalAlign": "middle",
-				"growY": 91.13778686523438,
+				"growY": 31.762786865234375,
 				"url": "",
 				"scale": 1
 			},
@@ -49525,10 +49525,10 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "day 4(project\nUser management\nsystem)",
+				"text": "",
 				"align": "middle",
 				"verticalAlign": "middle",
-				"growY": 31.762786865234375,
+				"growY": 0,
 				"url": "",
 				"scale": 1
 			},
@@ -49555,10 +49555,10 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "day 5 (DOM and \nits methods)",
+				"text": "",
 				"align": "middle",
 				"verticalAlign": "middle",
-				"growY": 2.075286865234375,
+				"growY": 0,
 				"url": "",
 				"scale": 1
 			},
@@ -49585,7 +49585,7 @@
 				"dash": "draw",
 				"size": "m",
 				"font": "draw",
-				"text": "Assignment",
+				"text": "",
 				"align": "middle",
 				"verticalAlign": "middle",
 				"growY": 0,
@@ -69625,84 +69625,6 @@
 			"typeName": "binding"
 		},
 		{
-			"id": "pointer:pointer",
-			"typeName": "pointer",
-			"x": 933.2151824738997,
-			"y": 3550.7921272088415,
-			"lastActivityTimestamp": 1740459725559,
-			"meta": {}
-		},
-		{
-			"followingUserId": null,
-			"opacityForNextShape": 1,
-			"stylesForNextShape": {},
-			"brush": null,
-			"scribbles": [],
-			"cursor": {
-				"type": "grabbing",
-				"rotation": 0
-			},
-			"isFocusMode": false,
-			"exportBackground": true,
-			"isDebugMode": false,
-			"isToolLocked": false,
-			"screenBounds": {
-				"x": 0,
-				"y": 0,
-				"w": 1238.1177978515625,
-				"h": 622.9102172851562
-			},
-			"insets": [
-				false,
-				false,
-				true,
-				false
-			],
-			"zoomBrush": null,
-			"isGridMode": false,
-			"isPenMode": false,
-			"chatMessage": "",
-			"isChatting": false,
-			"highlightedUserIds": [],
-			"isFocused": true,
-			"devicePixelRatio": 2.9859840869903564,
-			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
-			"openMenus": [],
-			"isChangingStyle": false,
-			"isReadonly": false,
-			"meta": {},
-			"duplicateProps": null,
-			"id": "instance:instance",
-			"currentPageId": "page:page",
-			"typeName": "instance"
-		},
-		{
-			"editingShapeId": null,
-			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:Jt72_p6yZnD9PRR8VRmC1"
-			],
-			"hoveredShapeId": "shape:sRl9iVVKu4hxzaDVBFnMz",
-			"erasingShapeIds": [],
-			"hintingShapeIds": [
-				"shape:LC8CXPyh0Nq03UEIvxTtA"
-			],
-			"focusedGroupId": null,
-			"meta": {},
-			"id": "instance_page_state:page:page",
-			"pageId": "page:page",
-			"typeName": "instance_page_state"
-		},
-		{
-			"x": 470.4907287356556,
-			"y": -2519.596924382766,
-			"z": 0.3452271214393102,
-			"meta": {},
-			"id": "camera:page:page",
-			"typeName": "camera"
-		},
-		{
 			"meta": {},
 			"id": "binding:NBrCohk5YEkI11fSdLRIm",
 			"type": "arrow",
@@ -69718,6 +69640,105 @@
 				"terminal": "end"
 			},
 			"typeName": "binding"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 1705.0802430210913,
+			"y": 5764.670999655347,
+			"lastActivityTimestamp": 1741156874236,
+			"meta": {}
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1616,
+				"h": 937
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"editingShapeId": "shape:DXvwo7y_cigD8K-CN3UR_",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:DXvwo7y_cigD8K-CN3UR_"
+			],
+			"hoveredShapeId": "shape:RHvwPFtVTk3Lp29KyC-Y5",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": -272.0802430210913,
+			"y": -5060.670999655347,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 1808.0802430210913,
+			"y": 5678.670999655347,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DXvwo7y_cigD8K-CN3UR_",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 8,
+				"text": "",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b27B6G",
+			"typeName": "shape"
 		}
 	]
 }
