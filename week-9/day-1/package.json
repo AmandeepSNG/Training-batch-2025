@@ -1,0 +1,17 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "sample application of node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Amandeep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
